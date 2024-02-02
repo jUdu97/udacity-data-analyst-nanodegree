@@ -11,6 +11,8 @@ This project was conducting using the following steps:
 - Update the data store with the cleaned data.
 - Produce visualizations on the cleaned data, and answer a brief research question on the dataset.
 
+Link to report: [Data Science Indeed Jobs Data](https://judu97.github.io/udacity-data-analyst-nanodegree/P2-Data-Wrangling-Python/Data_Wrangling_Python.html)
+
 # Project 3: Communicate Data Findings
 This project had two parts that demonstrate the importance and value of data visualization techniques in the data analysis process:
 - Part I: Exploratory data visualization, which used Python visualization libraries to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables.
