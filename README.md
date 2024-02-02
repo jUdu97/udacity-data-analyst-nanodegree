@@ -1,6 +1,8 @@
 # Project 1: Investigate a Dataset
 The goal of this project was to analyze a dataset and then communicate your findings about it. This analysis was done using the Python libraries NumPy and pandas.
 
+Link to report: [TMDb Movie Data](https://github.com/jUdu97/udacity-data-analyst-nanodegree/blob/main/P1-Investigate-Dataset/Investigate_a_Dataset.html)
+
 # Project 2: Real World Data Wrangling with Python
 This project was conducting using the following steps:
 - Gather two datasets - successfully extract data using two different data gathering methods and combine the data.
