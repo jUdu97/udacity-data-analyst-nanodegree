@@ -20,4 +20,4 @@ This project had two parts that demonstrate the importance and value of data vis
 
 Link to exploratory report: [Exploratory Analysis](https://judu97.github.io/udacity-data-analyst-nanodegree/P3-Communicate-Data-Findings/Part_I_exploration_template.html)
 
-Link to explanatory report: [Explanatory Analyst](https://judu97.github.io/udacity-data-analyst-nanodegree/P3-Communicate-Data-Findings/Part_II_explanatory_template.html)
+Link to explanatory report: [Explanatory Analysis](https://judu97.github.io/udacity-data-analyst-nanodegree/P3-Communicate-Data-Findings/Part_II_explanatory_template.html)
