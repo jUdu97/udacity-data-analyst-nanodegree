@@ -17,3 +17,7 @@ Link to report: [Data Science Indeed Jobs Data](https://judu97.github.io/udacity
 This project had two parts that demonstrate the importance and value of data visualization techniques in the data analysis process:
 - Part I: Exploratory data visualization, which used Python visualization libraries to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables.
 - Part II: Explanatory data visualization, which produced a short presentation that illustrates interesting properties, trends, and relationships that you discovered in your selected dataset. The primary method of conveying the findings was through transforming the exploratory visualizations from the first part into polished, explanatory visualizations.
+
+Link to exploratory report: [Exploratory Analysis](https://judu97.github.io/udacity-data-analyst-nanodegree/P3-Communicate-Data-Findings/Part_I_exploration_template.html)
+
+Link to explanatory report: [Explanatory Analyst](https://judu97.github.io/udacity-data-analyst-nanodegree/P3-Communicate-Data-Findings/Part_II_explanatory_template.html)
